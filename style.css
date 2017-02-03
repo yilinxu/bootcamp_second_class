@@ -1,0 +1,22 @@
+.h1{
+	border-style:solid;
+	background-color:black;
+	color:white;
+	display:inline 100%;
+	text-align:center;
+}
+
+.bio_image{
+	float:left;
+	margin-right:10px;
+}
+
+.main_bio{
+	width:75%;
+	float:left;
+}
+
+.Contact{
+	float:right;
+	width:25%;
+}
